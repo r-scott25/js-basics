@@ -22,6 +22,9 @@ const person = {
 
 for (let key in person) console.log(key, person[key]);
 
-const colors = ["red", "green", "blue"];
+// const colors = ["red", "green", "blue"];
 
-for (let index in colors) console.log(index, colors[index]);
+// for (let index in colors) console.log(index, colors[index]);
+
+// Use the For...in loop to iterate over the properties of an object
+//  Use the For...of loop to iterate over the elements in an array
